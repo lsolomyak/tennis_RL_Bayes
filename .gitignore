@@ -1,0 +1,7 @@
+data/processed/*.parquet
+data/processed/*.csv
+data/processed/*.json
+data/raw/*.zip
+__pycache__/
+*.pyc
+.DS_Store
