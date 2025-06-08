@@ -92,21 +92,6 @@ The Stan models implement hierarchical Bayesian frameworks that capture:
 - Match context significantly moderates learning responses
 - Individual differences in emotional regulation patterns
 
-## 🤝 Contributing
-
-This research is part of an ongoing academic project. For collaboration inquiries or questions about the methodology, please open an issue.
-
-## 📄 Citation
-
-```bibtex
-@article{tennis_bayesian_rl,
-  title={Bayesian Reinforcement Learning Analysis of Professional Tennis: Controllability and Emotional Learning},
-  author={Solomyak, Levi},
-  year={2024},
-  url={https://github.com/lsolomyak/tennis_RL_Bayes}
-}
-```
-
 ## 📧 Contact
 
 For questions about the Bayesian models, Stan implementation, or research collaboration: [GitHub Issues](https://github.com/lsolomyak/tennis_RL_Bayes/issues)
